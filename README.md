@@ -1,5 +1,5 @@
 # Crypto Engine
-
+A simple encryption-decryption system implemented in C, featuring Mono-alphabetic and Caesar cipher algorithms.
 
 ## Overview
 The **Crypto Engine** is a project developed for the **Structured Programming Lab (CSE104)** at the University of Liberal Arts Bangladesh (ULAB). It translates plaintext into ciphertext (encryption) and vice versa (decryption) using two cryptographic algorithms: **Mono-alphabetic** and **Caesar** ciphers. This project aims to provide hands-on experience with cryptography basics and collaborative C programming.
