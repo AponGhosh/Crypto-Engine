@@ -3,7 +3,7 @@
 #include <ctype.h>
 #include <string.h>
 
-// Declaration of all the functions used for caeser
+// Declaration of all the functions used for Caesar
 void Caeser_Encryption_DK (char plain_text[]);
 void Caeser_Decryption_DK (char encrypted_text[]);
 
@@ -12,7 +12,7 @@ void Caeser_Decryption_CK (int n);
 
 void Casear_Cryptography ();
 
-// Declaration of all the functions used for mono alphabetic
+// Declaration of all the functions used for mono-alphabetic
 void Monoalpha_Encryption_DK ();
 void Monoalpha_Encryption_CK ();
 void monoalpha_encryption ();
